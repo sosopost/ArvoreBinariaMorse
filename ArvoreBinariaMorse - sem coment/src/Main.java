@@ -46,7 +46,7 @@ public class Main {
 
         System.out.println("Busca '---': " + arvore.buscar("---"));
         System.out.println("Busca '...': " + arvore.buscar(".."));
-        System.out.println("Busca '... --- ...': " +
+        System.out.println("Busca '--- ...': " +
                 arvore.buscar("---") + arvore.buscar(".."));
 
         System.out.println("\nExibição da árvore:");
