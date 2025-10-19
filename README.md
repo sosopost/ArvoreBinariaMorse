@@ -70,7 +70,7 @@ Com essa implementação, a classe permite construir toda a tabela do código Mo
 ```
 Busca '---': O
 Busca '...': I
-Busca '... --- ...': OI
+Busca '--- ...': OI
 
 Exibição da árvore:
 [ ]
