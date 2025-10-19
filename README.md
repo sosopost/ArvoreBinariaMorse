@@ -65,16 +65,6 @@ Com essa implementação, a classe permite construir toda a tabela do código Mo
 
 ---
 
-## Conceitos 
-
-| Conceito | Explicação |
-|-----------|------------|
-| **Lista Encadeada** | Estrutura onde cada elemento aponta para o próximo. |
-| **Pilha (LIFO)** | Último a entrar é o primeiro a sair — ideal para históricos. |
-| **Fila (FIFO)** | Primeiro a entrar é o primeiro a sair — ideal para atendimentos em ordem. |
-
----
-
 ## Exemplo de Saída 
 
 ```
