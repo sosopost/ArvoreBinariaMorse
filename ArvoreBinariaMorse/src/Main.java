@@ -49,7 +49,7 @@ public class Main {
         // Testes de busca
         System.out.println("Busca '---': " + arvore.buscar("---"));   // O
         System.out.println("Busca '...': " + arvore.buscar(".."));   // I
-        System.out.println("Busca '... --- ...': " +
+        System.out.println("Busca '--- ...': " +
                 arvore.buscar("---") + arvore.buscar("..")); // OI
 
         // Exibição da Árvore
